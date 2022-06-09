@@ -14,9 +14,7 @@ Since there are too many people are reaching their retirement age at once, we ne
 - code and image 
 <img width="899" alt="Screen Shot 2022-06-09 at 5 34 46 PM" src="https://user-images.githubusercontent.com/83077836/172949336-e7a190df-4ab9-4f9a-8555-7102d60a42ef.png">
 
-
-2. 
-
+3. Lastly, we are getting the list of current employees who are eligible to participate in the mentorship program. Based on the list from above two steps, we already have the list of retiring employees 
 ## 3. Summary
 
 
