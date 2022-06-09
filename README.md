@@ -11,6 +11,8 @@ Since there are too many people are reaching their retirement age at once, we ne
 By using 'distinct on' clause, emplopyees who have left the company already have been excluded and only current employees are remained who are about to retire with the birth date in the year between 1952 and 1955. 
 
 <space> 
+ 
+ 
 The following image is the number of employees who are retiring per title
 
 
