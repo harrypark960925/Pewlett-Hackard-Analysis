@@ -6,7 +6,7 @@ Since there are too many people are reaching their retirement age at once, we ne
 ## 2. Results 
 
 1. Determining the number of retiring employers per title: By using 'distinct on' clause, emplopyees who have left the company already have been excluded and only current employees are remained who are about to retire with the birth date between 1952 and 1955. 
-2. 
+ 
 - code and image 
 <img width="653" alt="Screen Shot 2022-06-09 at 5 28 48 PM" src="https://user-images.githubusercontent.com/83077836/172948670-1c90e198-5f32-4e22-ba46-7ef96b35e0b2.png">
 
