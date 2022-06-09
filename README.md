@@ -5,7 +5,8 @@ Since there are too many people are reaching their retirement age at once, we ne
 
 ## 2. Results 
 
-1. Determining the number of retiring employers per title: By using 'distinct on' clause, emplopyees who have left the company already have been excluded and only current employees are remained who are about to retire with the birth date in the year between 1952 and 1955. 
+1. Determining the number of retiring employers per title: By using 'distinct on' clause, emplopyees who have left the company already have been excluded and only current employees are remained who are about to retire with the birth date between 1952 and 1955. 
+2. 
 - code and image 
 <img width="653" alt="Screen Shot 2022-06-09 at 5 28 48 PM" src="https://user-images.githubusercontent.com/83077836/172948670-1c90e198-5f32-4e22-ba46-7ef96b35e0b2.png">
 
@@ -14,7 +15,11 @@ Since there are too many people are reaching their retirement age at once, we ne
 - code and image 
 <img width="899" alt="Screen Shot 2022-06-09 at 5 34 46 PM" src="https://user-images.githubusercontent.com/83077836/172949336-e7a190df-4ab9-4f9a-8555-7102d60a42ef.png">
 
-3. Lastly, we are getting the list of current employees who are eligible to participate in the mentorship program. Based on the list from above two steps, we already have the list of retiring employees 
+3. Lastly, we are getting the list of current employees who are eligible to participate in the mentorship program. THe company has set the range with the birth date in the year 1965. 
+
+- code and image 
+<img width="1055" alt="Screen Shot 2022-06-09 at 5 50 50 PM" src="https://user-images.githubusercontent.com/83077836/172951850-35a53eba-5520-4be7-9e81-5b983dccfe59.png">
+
 ## 3. Summary
 
 
