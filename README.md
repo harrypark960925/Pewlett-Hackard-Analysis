@@ -21,7 +21,14 @@ Since there are too many people are reaching their retirement age at once, we ne
 <img width="1055" alt="Screen Shot 2022-06-09 at 5 50 50 PM" src="https://user-images.githubusercontent.com/83077836/172951850-35a53eba-5520-4be7-9e81-5b983dccfe59.png">
 
 ## 3. Summary
+1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+    - 72,458 roles will need to be filled as soon as the employees start to retire at any time. 
 
+<img width="429" alt="Screen Shot 2022-06-09 at 6 01 33 PM" src="https://user-images.githubusercontent.com/83077836/172952939-510e4dcf-ff8d-4bab-b6b4-7d886f4e6257.png">
+
+
+2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+    - No, there are only 1,549 employees eligible to mentor the next generation which is only about 2% of the number of roles to be filled because of the retirement. 
 
 
 
