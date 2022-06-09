@@ -30,6 +30,9 @@ Since there are too many people are reaching their retirement age at once, we ne
 2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
     - No, there are only 1,549 employees eligible to mentor the next generation which is only about 2% of the number of roles to be filled because of the retirement. 
 
+<img width="510" alt="Screen Shot 2022-06-09 at 6 02 25 PM" src="https://user-images.githubusercontent.com/83077836/172953283-7bbe34a2-fba0-44f0-b25f-8e958a86a596.png">
+
+
 
 
 
